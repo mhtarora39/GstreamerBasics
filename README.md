@@ -75,11 +75,11 @@ This is the dummy assignment where we are creating simple gstreamer plugin then 
 
 ### Please feel free to use compiled binaries in [artifacts] (./artifacts)
 
-* ToDo :
+# ToDo :
 1. Create Build Script for the environments setup
 2. Enhance RTSP client.
 3. Code Cleanup and tests.
-4. Improve the segmentation plugin.
+4. Improve the Background Subtraction plugin accuracy.
 
 
 
