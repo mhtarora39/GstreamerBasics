@@ -69,6 +69,15 @@ This is the dummy assignment where we are creating simple gstreamer plugin then 
     mv gstyourplugin.c gstyourplugin.cpp
     ```
 3. Please customize methods from above generated plugin.
+4. copy the plugin to gstreamer plugin path, In my case it was /usr/lib/x86_64-linux-gnu/gstreamer-1.0/.
+
+
+### Please feel free to use compiled binaries in [artifacts] (./artifacts)
+
+* ToDo :
+1. Create Build Script for the environments setup
+2. Enhance RTSP client.
+3. Code Cleanup and tests.
 
 
 
