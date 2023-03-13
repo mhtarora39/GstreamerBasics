@@ -53,7 +53,7 @@ This is the dummy assignment where we are creating simple gstreamer plugin then 
 
 * You should be getting output from your webcam as below.
 </br>
-![GIF Converted Demo](artifacts/out.gif)
+<img src="./artifacts/out.gif"/>
 
 # Miscellaneous:
 * Steps to build plugin : 
