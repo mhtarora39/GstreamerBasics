@@ -1,6 +1,7 @@
 # **Background**
 </br>
-This is the dummy assignment where we are creating simple gstreamer plugin then we are deploying it on RTSP server.We are also building RTSP client for connecting to the server.
+This is the dummy gsreamer project where we are creating simple background subtraction gstreamer plugin. We are building live streaming pipeline with background subtraction plugin which we developed and deploying it on RTSP server.We are also building RTSP client for connecting to the server.
+
 </br>
 </br>
 
@@ -75,8 +76,8 @@ This is the dummy assignment where we are creating simple gstreamer plugin then 
 
 ### Please feel free to use compiled binaries in [artifacts] (./artifacts)
 
-# ToDo :
-1. Create Build Script for the environments setup
+## ToDo :
+1. Create Build Script for the environments setup and demo.
 2. Enhance RTSP client.
 3. Code Cleanup and tests.
 4. Improve the Background Subtraction plugin accuracy.
