@@ -52,7 +52,8 @@ This is the dummy assignment where we are creating simple gstreamer plugin then 
     ```
 
 * You should be getting output from your webcam as below.
-<video src='./artifacts/out.avi' width=180/> 
+</br>
+![GIF Converted Demo](artifacts/out.gif)
 
 # Miscellaneous:
 * Steps to build plugin : 
@@ -78,6 +79,7 @@ This is the dummy assignment where we are creating simple gstreamer plugin then 
 1. Create Build Script for the environments setup
 2. Enhance RTSP client.
 3. Code Cleanup and tests.
+4. Improve the segmentation plugin.
 
 
 
